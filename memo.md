@@ -1,7 +1,5 @@
 docker exec -it postgres psql -U postgres qgisdb
 
-CREATE EXTENSION postgis;
-
 ## 確認
 
 ### port どうなってる？
